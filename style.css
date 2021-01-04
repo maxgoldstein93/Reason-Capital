@@ -1,0 +1,33 @@
+#title{
+
+    font-size: 45px;
+    font-weight: bold;
+
+}
+.footer {
+    color: black;
+}
+
+
+.footerBox {
+
+    /* min-height: 835px; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: rgb(186, 207, 235);
+    color: "green";
+    
+} 
+.center {
+    margin: auto;
+    width: 100%;
+   
+    padding: 10px;
+  }
+
+  .nav-link{
+      color: black;
+  }
+  .nav-link:hover {
+    color: rgb(167, 167, 167) !important;
+}
